@@ -1,0 +1,1 @@
+var loguser = User.FindFirst(ClaimTypes.NameIdentifier)!.Value;
